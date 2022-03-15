@@ -31,7 +31,7 @@ body {margin:0;}
             .head {
               text-align: center;
               color: #333;
-              height: 1500px; /* Used in this example to enable scrolling */
+              height: 1500px; /* Used in this example to enable scrolling. */
               font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
               font-size: large;
             }
